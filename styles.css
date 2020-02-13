@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: darkblue;
+    color: skyblue;
     text-underline-position: below;
 }
 p {
@@ -10,5 +10,10 @@ p {
     font-weight: bold;
 }
 body {
-    background-image: url();
+    background-image: url(https://bit.ly/39A55Yb);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+p {
+    color: white;
 }
