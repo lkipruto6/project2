@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: darkblue;
+    text-underline-position: below;
+}
+p {
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    font-weight: bold;
+}
+body {
+    background-image: url();
+}
