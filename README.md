@@ -1,6 +1,6 @@
 #AKAN NAME GENERATOR
 ##the website function is to genarate a name for those interested in the Akan People Naming Structure
-###below is a live link to my website; https://lkipruto6.github.io/project2/.
+###below is a live link to my website; 
 
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
