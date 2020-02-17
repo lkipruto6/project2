@@ -41,8 +41,12 @@ function confirmTheName (){
         alert("A DAY MUST BE FILLED!")
     }
     else {
-        return: false
-}
+        return false
+    }
+
+
+
+
 if (genders ==="male") {
     document.getElementById("result").innerHTML = "Born on" + days(dayOfBirth -1) + "Your Akan name is" + maleAkanNames(dayOfBirth -1)
 }
