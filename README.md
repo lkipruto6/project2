@@ -2,7 +2,7 @@
 
 the project is based on the akan people of ghana who use specific days of the week to name children on gender
 
-below is a link to my live website: 
+below is a link to my live website: https://lkipruto6.github.io/project2/
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
