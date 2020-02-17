@@ -1,3 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AKAN-GHANA</title>
+    <link href="styles.css" rel ="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1>AKAN NAME GENERATOR</h1>
+    <p>The Akan people are a group of people from Ghana and Ivory Coast. </p>
+    <p>They are known to name newly born children with reference to the day of the week they were born!!</p>
+    <p>Find out what your Akan name is today!!</p>
+        <div>
+           <form id="FILL YOUR DETAILS BELOW">
+               <fieldset>
+              <Label>DAY OF BIRTH</Label></br>
+                <input type="number"></br>
+
+
+              <label>MONTH OF BIRTH</label></br>
+                <input type="number"></br>
+
+
+              <label>YEAR OF BIRTH</label></br>
+                <input type="number"></br>
+
+               <select id="gender">GENDER</select>
+                <option value="male">MALE</option>
+                <option value="female">FEMALE</option>
+
+                <input type="submit"></br>   
+
+               </fieldset>
+            </form>
+        </div>
+  </body>
+  <script src="scripts.js"></script>
+</html>
+
 #AKAN NAME GENERATOR
 ##the website function is to genarate a name for those interested in the Akan People Naming Structure
 ###below is a live link to my website; 
